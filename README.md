@@ -12,9 +12,12 @@ Los Led encenderán según los siguientes valores.
 
 En caso de querer modificarlos
 
-//Valores de rangos de las luces en voltios 
+//Valores de rangos de las luces en voltios
+ 
 float fValorParaLedVerde = 1.5;
+
 float fValorParaLedAmarillo = 1.2;
+
 float fValorParaLedRojo = 0.4;
 
 ***********************************************************************************
